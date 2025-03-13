@@ -10,3 +10,5 @@ venv
 *.egg-info
 dist
 build
+# Poetry-specific files
+poetry.lock
